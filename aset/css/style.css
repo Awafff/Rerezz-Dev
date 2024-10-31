@@ -129,11 +129,3 @@ footer a {
     color: white;
     text-decoration: none;
 }
-#clock {
-    position: relative;
-    top: 20px;
-    right: 20px;
-    font-size: 1.5em;
-    color: white;
-    z-index: 3;
-}
