@@ -129,7 +129,7 @@ footer a {
     color: white;
     text-decoration: none;
 }
-#clock {
+.clock {
     position: relative;
     top: 20px;
     right: 20px;
